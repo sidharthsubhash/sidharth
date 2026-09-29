@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidharthsubhash/sidharth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sidharthsubhash/sidharth/issues"
+  },
+  "homepage": "https://github.com/sidharthsubhash/sidharth#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
